@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\bin\Debug\net6.0\Project1 Small Steps.exe
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\bin\Debug\net6.0\Project1 Small Steps.deps.json
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\bin\Debug\net6.0\Project1 Small Steps.runtimeconfig.json
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\bin\Debug\net6.0\Project1 Small Steps.dll
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\bin\Debug\net6.0\Project1 Small Steps.pdb
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\obj\Debug\net6.0\Project1 Small Steps.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\obj\Debug\net6.0\Project1 Small Steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\obj\Debug\net6.0\Project1 Small Steps.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\obj\Debug\net6.0\Project1 Small Steps.AssemblyInfo.cs
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\obj\Debug\net6.0\Project1 Small Steps.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\obj\Debug\net6.0\Project1 Small Steps.dll
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\obj\Debug\net6.0\refint\Project1 Small Steps.dll
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\obj\Debug\net6.0\Project1 Small Steps.pdb
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\obj\Debug\net6.0\Project1 Small Steps.genruntimeconfig.cache
+C:\Users\User\source\repos\Project1 Small Steps\Project1 Small Steps\obj\Debug\net6.0\ref\Project1 Small Steps.dll
